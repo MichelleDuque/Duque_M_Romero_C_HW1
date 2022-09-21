@@ -5,3 +5,4 @@ I am a tarot reader
 
 I am Memeber 1
 I love tacos
+Barranquilla, Colombia
