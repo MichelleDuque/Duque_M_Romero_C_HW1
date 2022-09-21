@@ -6,3 +6,4 @@ I am from Bogota, Colombia
 
 I am Memeber 1
 I love tacos
+I am from Barranquilla, Colombia
