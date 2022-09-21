@@ -4,6 +4,10 @@ Memeber 1: Michelle Paola Duque De La Rosa
 I'm from Barranquilla, Colombia
 I play soccer
 
+Memeber 2: Maria Camila Romero Contreras
+I'm from Bogota, Colombia
+I read tarot
+
 Picture: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Installation
