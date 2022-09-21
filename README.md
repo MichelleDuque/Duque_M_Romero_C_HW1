@@ -1,6 +1,10 @@
 # Homework 1 Duque Romero
 
-TODO: Write a project description
+Memeber 1: Michelle Paola Duque De La Rosa
+I'm from Barranquilla, Colombia
+I play soccer
+
+Picture: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Installation
 
