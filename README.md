@@ -1,6 +1,6 @@
 ![There's not photo](banner.jpg "James Webb Space")
 
-# Homework 1 Duque Romero
+# Homework 1 Duque_Romero
 
 Memeber 1: Michelle Paola Duque De La Rosa
 I'm from Barranquilla, Colombia
