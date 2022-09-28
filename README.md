@@ -1,3 +1,5 @@
+![alt text](banner.jpg "Logo Title Text 1")
+
 # Homework 1 Duque Romero
 
 Memeber 1: Michelle Paola Duque De La Rosa
