@@ -12,14 +12,6 @@ I read tarot
 
 Picture: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
-
 ## Contributing
 
 1. Fork it!
@@ -28,14 +20,16 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
 
 ## Credits
+Memeber 1: Michelle Paola Duque De La Rosa
+I'm from Barranquilla, Colombia
+I play soccer
 
-TODO: Write credits
+Memeber 2: Maria Camila Romero Contreras
+I'm from Bogota, Colombia
+I read tarot
 
 ## License
 
-TODO: Write license
+MIT
