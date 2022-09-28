@@ -1,4 +1,4 @@
-![alt text](banner.jpg "Logo Title Text 1")
+![There's not photo](banner.jpg "James Webb Space")
 
 # Homework 1 Duque Romero
 
@@ -10,7 +10,7 @@ Memeber 2: Maria Camila Romero Contreras
 I'm from Bogota, Colombia
 I read tarot
 
-Picture: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Making more changes
 
 ## Contributing
 
@@ -20,15 +20,9 @@ Picture: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/comm
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-
 ## Credits
-Memeber 1: Michelle Paola Duque De La Rosa
-I'm from Barranquilla, Colombia
-I play soccer
 
-Memeber 2: Maria Camila Romero Contreras
-I'm from Bogota, Colombia
-I read tarot
+James Webb Space
 
 ## License
 
